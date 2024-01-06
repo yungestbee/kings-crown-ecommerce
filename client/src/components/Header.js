@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <>
       <header className="header-top-strip py-3">
-        <div className="container-xxl">
+        <div className="container-xx">
           <div
             className="row justify-content-center align-items-center g-2"
           >
